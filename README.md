@@ -1,2 +1,2 @@
-# AndroidRTPDemo
-An demo Android application for RTP multimedia streaming
+# Android RTP Demo
+An Android application for RTP multimedia streaming
